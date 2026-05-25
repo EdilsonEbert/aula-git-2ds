@@ -1,4 +1,4 @@
-nota = 5.0
+nota = float(input("Digite a nota: "))
 
 if nota >= 6.0:
     print("Aprovado")
